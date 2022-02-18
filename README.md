@@ -1,4 +1,16 @@
-### Hi there 👋
+### About me 👋
+
+## Technical Skills
+ - Python
+ - C++
+ - Security Onion
+ - Arkime
+ - Jupyter Notebook
+ - Wire Shark
+ - HTML
+
+## Awards
+ - Tracerfire 2022 PVAMU competition certificate, team placed 2nd.
 
 <!--
 **GMAN-Alexander/GMAN-Alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
